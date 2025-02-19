@@ -7,11 +7,11 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!--
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"></a>
+  <a href="https://www.linkedin.com/in/mustafa-kamel-3a8a17262/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"></a>
 </p>
--->
+
 
 - 🏢 I'm a Flutter Developer and a Computer Science student at Ain Shams University.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to enhance my skills.
